@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests
 import lxml.etree as etree
 import csv
